@@ -1,0 +1,15 @@
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEOddorEven\bin\Debug\net6.0\GarciaEOddorEven.exe
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEOddorEven\bin\Debug\net6.0\GarciaEOddorEven.deps.json
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEOddorEven\bin\Debug\net6.0\GarciaEOddorEven.runtimeconfig.json
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEOddorEven\bin\Debug\net6.0\GarciaEOddorEven.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEOddorEven\bin\Debug\net6.0\GarciaEOddorEven.pdb
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEOddorEven\obj\Debug\net6.0\GarciaEOddorEven.csproj.AssemblyReference.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEOddorEven\obj\Debug\net6.0\GarciaEOddorEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEOddorEven\obj\Debug\net6.0\GarciaEOddorEven.AssemblyInfoInputs.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEOddorEven\obj\Debug\net6.0\GarciaEOddorEven.AssemblyInfo.cs
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEOddorEven\obj\Debug\net6.0\GarciaEOddorEven.csproj.CoreCompileInputs.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEOddorEven\obj\Debug\net6.0\GarciaEOddorEven.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEOddorEven\obj\Debug\net6.0\refint\GarciaEOddorEven.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEOddorEven\obj\Debug\net6.0\GarciaEOddorEven.pdb
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEOddorEven\obj\Debug\net6.0\GarciaEOddorEven.genruntimeconfig.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEOddorEven\obj\Debug\net6.0\ref\GarciaEOddorEven.dll
