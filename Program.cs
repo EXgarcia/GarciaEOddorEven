@@ -39,7 +39,7 @@ while(again == true)
         Console.WriteLine("I\nD\nO\nN\nT\nL\nI\nK\nE\nY\nO\nU");
 
     }
-    Console.WriteLine("Do you have anymore numbers for me? Type YES or NO.");
+    Console.WriteLine("Do you have anymore numbers for me? Type YES or press enter to exit.");
 
     againAnswer = Console.ReadLine().ToUpper();
     
